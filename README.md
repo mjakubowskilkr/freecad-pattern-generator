@@ -1,6 +1,6 @@
 # 💠 Pattern Cut Generator for FreeCAD
 
-![Version](https://img.shields.io/badge/version-v0.9-blue.svg)
+![Version](https://img.shields.io/badge/version-v0.9.1-blue.svg)
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-1.0%2B-green.svg)
 ![Language](https://img.shields.io/badge/language-Python-yellow.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20Mac-lightgrey.svg)
