@@ -7,10 +7,6 @@
 
 🌍 **[English Version](#-english-version)** | 🇵🇱 **[Wersja Polska](#-wersja-polska)**
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Here+put+a+screenshot+of+your+beautiful+macro+GUI" alt="Macro GUI Screenshot" width="800">
-</p>
-
 ---
 
 ## 🇬🇧 English Version
